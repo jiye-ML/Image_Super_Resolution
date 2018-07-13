@@ -7,3 +7,4 @@
 
 
 * [普通视频转高清：10个基于深度学习的超分辨率神经网络](https://mp.weixin.qq.com/s/h4Xzt-aS1_-5zjTB0ypTLg)
+* [图像压缩哪家强？请看这份超详细对比](https://mp.weixin.qq.com/s/B7reSwa9sCZqbkYVM5-VOA)
